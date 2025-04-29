@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Actualizaciones de Mi App</title>
+    <item>
+      <title>2.0.0</title> <!-- 🚀 Versión nueva disponible -->
+      <description>✨ Mejoras de rendimiento y nuevas funciones.</description> <!-- 💬 Notas de la versión -->
+      <pubDate>Fri, 26 Apr 2025 10:00:00 GMT</pubDate> <!-- 📅 Fecha de publicación -->
+      <enclosure url="https://ejemplo.com/tu-app.apk" /> <!-- 📥 Opcional, URL de descarga directa (puede omitirse si solo quieres forzar actualización) -->
+    </item>
+  </channel>
+</rss>
+
