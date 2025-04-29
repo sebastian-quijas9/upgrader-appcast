@@ -6,7 +6,7 @@
       <title>2.0.0</title> <!-- 🚀 Versión nueva disponible -->
       <description>✨ Mejoras de rendimiento y nuevas funciones.</description> <!-- 💬 Notas de la versión -->
       <pubDate>Fri, 26 Apr 2025 10:00:00 GMT</pubDate> <!-- 📅 Fecha de publicación -->
-      <enclosure url="https://ejemplo.com/tu-app.apk" /> <!-- 📥 Opcional, URL de descarga directa (puede omitirse si solo quieres forzar actualización) -->
+      <enclosure url="https://apps.apple.com/mx/app/farmacias-guadalajara/id6498315262" /> 
     </item>
   </channel>
 </rss>
